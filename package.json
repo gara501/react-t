@@ -1,0 +1,27 @@
+{
+  "name": "reactt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gara501/react-t.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "andres ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gara501/react-t/issues"
+  },
+  "homepage": "https://github.com/gara501/react-t#readme",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
